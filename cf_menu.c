@@ -1,3 +1,23 @@
+/*******************************************************************************
+/* FILE NAME               : cf_menu.c
+/* PRINCIPAL AUTHOR        : chenfeng
+/* SUBSYSTEM NAME          : menu
+/* MODULE NAME             : menu
+/* LANGUAGE                : C
+/* TARGET ENVIRONMENT      : ANY
+/* DATE OF FIRST RELEASE   : 2014/09/15
+/* DESCRIPTION             : This is a menu
+/*******************************************************************************
+
+/*
+ * Revision log;
+ *
+ * Created by chenfeng,2014/09/15
+ *
+ */
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
